@@ -7,11 +7,14 @@ politikere = politikere
 
 min_verden = politikere
 
-for politiker in politikere:
-    ny_politiker = Politiker("Støre")
-    min_verden.append(ny_politiker)
+
+# for politiker in politikere:
+#     ny_politiker = Politiker("", "", "Støre")
+#     min_verden.append(ny_politiker)
 
 mitt_lag = Lag("Nasjonal Blanding")
-mitt_lag.kjop_politiker(Verden.finn_politiker("Støre"))
-mitt_lag.kjop_politiker(Verden.finn_politiker("Solberg"))
+# mitt_lag.Verden()
+# mitt_lag.kjop_politiker("Støre")
+mitt_lag.hent_lag
+# mitt_lag.kjop_politiker(Verden.finn_politiker("Solberg"))
 print(mitt_lag)
