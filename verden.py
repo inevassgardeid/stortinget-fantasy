@@ -21,10 +21,12 @@ class Verden:
     def finn_politiker(self):
         for etternavn in politikere:
             if etternavn == ["etternavn"]:
-                self.lag.append(Politiker(["fornavn"], ["etternavn"], ["parti"]))
+                return Politiker(["fornavn"], ["etternavn"], ["parti"])
 
     def legg_til_politiker(self):
-        pass
+        for etternavn in politikere:
+            if etternavn == ["etternavn"]:
+                self.lag.append(Politiker(["fornavn"], ["etternavn"], ["parti"]))
 
     def legg_til_lag(self):
         pass
