@@ -1,0 +1,4576 @@
+{
+    "representanter_oversikt": {
+        "@xmlns:i": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xmlns": "http://data.stortinget.no",
+        "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+        "versjon": "1.6",
+        "representanter_liste": {
+            "representant": [
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Aasen-Svensrud",
+                    "foedselsdato": "1980-02-22T00:00:00+01:00",
+                    "fornavn": "Maria",
+                    "id": "AASE",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ve",
+                        "navn": "Vestfold"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Aukrust",
+                    "foedselsdato": "1985-02-28T00:00:00+01:00",
+                    "fornavn": "Åsmund",
+                    "id": "AAUK",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ak",
+                        "navn": "Akershus"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Raja",
+                    "foedselsdato": "1975-11-05T01:00:00+01:00",
+                    "fornavn": "Abid",
+                    "id": "ABIR",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ak",
+                        "navn": "Akershus"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "V",
+                        "navn": "Venstre",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Abusland",
+                    "foedselsdato": "1995-11-25T01:00:00+01:00",
+                    "fornavn": "Anja Ninasdotter",
+                    "id": "ABUANJ",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "VA",
+                        "navn": "Vest-Agder"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "Sp",
+                        "navn": "Senterpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Molberg",
+                    "foedselsdato": "1990-08-05T00:00:00+02:00",
+                    "fornavn": "Anna",
+                    "id": "AIM",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "He",
+                        "navn": "Hedmark"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "H",
+                        "navn": "Høyre",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Stokkebø",
+                    "foedselsdato": "1994-11-02T00:00:00+01:00",
+                    "fornavn": "Aleksander",
+                    "id": "ALES",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ro",
+                        "navn": "Rogaland"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "H",
+                        "navn": "Høyre",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Bjørlo",
+                    "foedselsdato": "1972-12-17T01:00:00+01:00",
+                    "fornavn": "Alfred Jens",
+                    "id": "ALFBJR",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "SF",
+                        "navn": "Sogn og Fjordane"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "V",
+                        "navn": "Venstre",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Linnestad",
+                    "foedselsdato": "1961-12-19T00:00:00+01:00",
+                    "fornavn": "Anne Kristine",
+                    "id": "ALI",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ak",
+                        "navn": "Akershus"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "H",
+                        "navn": "Høyre",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Lysbakken",
+                    "foedselsdato": "1977-09-30T01:00:00+02:00",
+                    "fornavn": "Audun",
+                    "id": "ALYS",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ho",
+                        "navn": "Hordaland"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "SV",
+                        "navn": "Sosialistisk Venstreparti",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Huitfeldt",
+                    "foedselsdato": "1969-11-29T00:00:00+01:00",
+                    "fornavn": "Anniken",
+                    "id": "ANNH",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ak",
+                        "navn": "Akershus"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Skjelstad",
+                    "foedselsdato": "1965-08-27T00:00:00+02:00",
+                    "fornavn": "André N.",
+                    "id": "ANNS",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "NT",
+                        "navn": "Nord-Trøndelag"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "V",
+                        "navn": "Venstre",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Trettebergstuen",
+                    "foedselsdato": "1981-05-25T00:00:00+02:00",
+                    "fornavn": "Anette",
+                    "id": "ATR",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "He",
+                        "navn": "Hedmark"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Unneland",
+                    "foedselsdato": "1994-06-30T00:00:00+02:00",
+                    "fornavn": "Andreas Sjalg",
+                    "id": "AU",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Os",
+                        "navn": "Oslo"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "SV",
+                        "navn": "Sosialistisk Venstreparti",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Strifeldt",
+                    "foedselsdato": "1971-03-24T00:00:00+01:00",
+                    "fornavn": "Bengt Rune",
+                    "id": "BERST",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Fi",
+                        "navn": "Finnmark"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "FrP",
+                        "navn": "Fremskrittspartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Fasteraune",
+                    "foedselsdato": "1964-06-03T00:00:00+02:00",
+                    "fornavn": "Bengt",
+                    "id": "BFA",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Op",
+                        "navn": "Oppland"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "Sp",
+                        "navn": "Senterpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Kjerstad",
+                    "foedselsdato": "1961-09-11T02:00:00+02:00",
+                    "fornavn": "Birgit Oline",
+                    "id": "BIRKJE",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "MR",
+                        "navn": "Møre og Romsdal"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "SV",
+                        "navn": "Sosialistisk Venstreparti",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Moxnes",
+                    "foedselsdato": "1981-12-19T00:00:00+01:00",
+                    "fornavn": "Bjørnar",
+                    "id": "BJMO",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Os",
+                        "navn": "Oslo"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "R",
+                        "navn": "Rødt",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Skjæran",
+                    "foedselsdato": "1966-05-28T02:00:00+02:00",
+                    "fornavn": "Bjørnar",
+                    "id": "BJRSKJ",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "No",
+                        "navn": "Nordland"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Thorheim",
+                    "foedselsdato": "1976-10-15T02:00:00+02:00",
+                    "fornavn": "Bård Ludvig",
+                    "id": "BRDTHO",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "No",
+                        "navn": "Nordland"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "H",
+                        "navn": "Høyre",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Hoksrud",
+                    "foedselsdato": "1973-03-26T01:00:00+02:00",
+                    "fornavn": "Bård",
+                    "id": "BÅH",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Te",
+                        "navn": "Telemark"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "FrP",
+                        "navn": "Fremskrittspartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Hagen",
+                    "foedselsdato": "1944-05-06T00:00:00+02:00",
+                    "fornavn": "Carl I.",
+                    "id": "CIH",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Op",
+                        "navn": "Oppland"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "FrP",
+                        "navn": "Fremskrittspartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Tybring-Gjedde",
+                    "foedselsdato": "1963-08-08T00:00:00+02:00",
+                    "fornavn": "Christian",
+                    "id": "CT",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Os",
+                        "navn": "Oslo"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "FrP",
+                        "navn": "Fremskrittspartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Myrseth",
+                    "foedselsdato": "1984-07-27T00:00:00+02:00",
+                    "fornavn": "Cecilie",
+                    "id": "CTM",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Tr",
+                        "navn": "Troms"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Olsen",
+                    "foedselsdato": "1966-06-29T02:00:00+02:00",
+                    "fornavn": "Dagfinn Henrik",
+                    "id": "DHO",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "No",
+                        "navn": "Nordland"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "FrP",
+                        "navn": "Fremskrittspartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Ulstein",
+                    "foedselsdato": "1980-12-04T01:00:00+01:00",
+                    "fornavn": "Dag-Inge",
+                    "id": "DU",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ho",
+                        "navn": "Hordaland"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "KrF",
+                        "navn": "Kristelig Folkeparti",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Eide",
+                    "foedselsdato": "1964-05-01T00:00:00+02:00",
+                    "fornavn": "Espen Barth",
+                    "id": "EBE",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Os",
+                        "navn": "Oslo"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Mehl",
+                    "foedselsdato": "1993-08-08T00:00:00+02:00",
+                    "fornavn": "Emilie",
+                    "id": "EEM",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "He",
+                        "navn": "Hedmark"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "Sp",
+                        "navn": "Senterpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Knutsen",
+                    "foedselsdato": "1988-10-28T01:00:00+02:00",
+                    "fornavn": "Eigil",
+                    "id": "EIK",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ho",
+                        "navn": "Hordaland"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Rødby",
+                    "foedselsdato": "1982-05-26T00:00:00+02:00",
+                    "fornavn": "Else Marie",
+                    "id": "ELR",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ak",
+                        "navn": "Akershus"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "Sp",
+                        "navn": "Senterpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Elvenes",
+                    "foedselsdato": "1959-06-17T00:00:00+02:00",
+                    "fornavn": "Hårek",
+                    "id": "ELV",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ak",
+                        "navn": "Akershus"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "H",
+                        "navn": "Høyre",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Waagen",
+                    "foedselsdato": "1990-02-19T00:00:00+01:00",
+                    "fornavn": "Elise",
+                    "id": "ELW",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Øs",
+                        "navn": "Østfold"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Bøe",
+                    "foedselsdato": "1992-12-30T00:00:00+01:00",
+                    "fornavn": "Erlend Svardal",
+                    "id": "ERLBE1",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Tr",
+                        "navn": "Troms"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "H",
+                        "navn": "Høyre",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Larsen",
+                    "foedselsdato": "1965-10-13T02:00:00+02:00",
+                    "fornavn": "Erlend",
+                    "id": "ERLL",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ve",
+                        "navn": "Vestfold"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "H",
+                        "navn": "Høyre",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Solberg",
+                    "foedselsdato": "1961-02-24T01:00:00+01:00",
+                    "fornavn": "Erna",
+                    "id": "ES",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ho",
+                        "navn": "Hordaland"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "H",
+                        "navn": "Høyre",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Sande",
+                    "foedselsdato": "1978-11-08T00:00:00+01:00",
+                    "fornavn": "Erling",
+                    "id": "ESAN",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "SF",
+                        "navn": "Sogn og Fjordane"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "Sp",
+                        "navn": "Senterpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Hansen",
+                    "foedselsdato": "1973-03-05T00:00:00+01:00",
+                    "fornavn": "Eva Kristin",
+                    "id": "EVH",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "ST",
+                        "navn": "Sør-Trøndelag"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Røed",
+                    "foedselsdato": "1992-02-23T01:00:00+01:00",
+                    "fornavn": "Even A.",
+                    "id": "EVR",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Bu",
+                        "navn": "Buskerud"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Wiborg",
+                    "foedselsdato": "1984-01-20T00:00:00+01:00",
+                    "fornavn": "Erlend",
+                    "id": "EW",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Øs",
+                        "navn": "Østfold"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "FrP",
+                        "navn": "Fremskrittspartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Øvstegård",
+                    "foedselsdato": "1994-12-20T01:00:00+01:00",
+                    "fornavn": "Freddy André",
+                    "id": "FAØ",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Øs",
+                        "navn": "Østfold"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "SV",
+                        "navn": "Sosialistisk Venstreparti",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Sve",
+                    "foedselsdato": "1968-02-18T00:00:00+01:00",
+                    "fornavn": "Frank Edvard",
+                    "id": "FES",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "MR",
+                        "navn": "Møre og Romsdal"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "FrP",
+                        "navn": "Fremskrittspartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Stordalen",
+                    "foedselsdato": "1968-10-05T01:00:00+02:00",
+                    "fornavn": "Morten",
+                    "id": "FMS",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ve",
+                        "navn": "Vestfold"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "FrP",
+                        "navn": "Fremskrittspartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Iversen",
+                    "foedselsdato": "1954-09-20T01:00:00+02:00",
+                    "fornavn": "Geir Adelsten",
+                    "id": "GAI",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Fi",
+                        "navn": "Finnmark"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "Sp",
+                        "navn": "Senterpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Jørgensen",
+                    "foedselsdato": "1972-12-16T01:00:00+01:00",
+                    "fornavn": "Geir",
+                    "id": "GEIRAJ",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "No",
+                        "navn": "Nordland"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "R",
+                        "navn": "Rødt",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Lien",
+                    "foedselsdato": "1972-05-30T01:00:00+02:00",
+                    "fornavn": "Geir Inge",
+                    "id": "GEL",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "MR",
+                        "navn": "Møre og Romsdal"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "Sp",
+                        "navn": "Senterpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Almeland",
+                    "foedselsdato": "1991-03-29T01:00:00+01:00",
+                    "fornavn": "Grunde",
+                    "id": "GKAL",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Os",
+                        "navn": "Oslo"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "V",
+                        "navn": "Venstre",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Melby",
+                    "foedselsdato": "1981-02-03T01:00:00+01:00",
+                    "fornavn": "Guri",
+                    "id": "GME",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Os",
+                        "navn": "Oslo"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "V",
+                        "navn": "Venstre",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Saudland",
+                    "foedselsdato": "1986-07-08T00:00:00+02:00",
+                    "fornavn": "Gisle Meininger",
+                    "id": "GMS",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "VA",
+                        "navn": "Vest-Agder"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "FrP",
+                        "navn": "Fremskrittspartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Pollestad",
+                    "foedselsdato": "1978-08-13T01:00:00+02:00",
+                    "fornavn": "Geir",
+                    "id": "GP",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ro",
+                        "navn": "Rogaland"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "Sp",
+                        "navn": "Senterpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Wold",
+                    "foedselsdato": "1968-01-15T01:00:00+01:00",
+                    "fornavn": "Grete",
+                    "id": "GREWOL",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ve",
+                        "navn": "Vestfold"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "SV",
+                        "navn": "Sosialistisk Venstreparti",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Mykjåland",
+                    "foedselsdato": "1976-09-04T02:00:00+02:00",
+                    "fornavn": "Gro-Anita",
+                    "id": "GROMYK",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "AA",
+                        "navn": "Aust-Agder"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "Sp",
+                        "navn": "Senterpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Asheim",
+                    "foedselsdato": "1983-08-21T00:00:00+02:00",
+                    "fornavn": "Henrik",
+                    "id": "HEA",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ak",
+                        "navn": "Akershus"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "H",
+                        "navn": "Høyre",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Nyholt",
+                    "foedselsdato": "1978-08-02T02:00:00+02:00",
+                    "fornavn": "Hege Bae",
+                    "id": "HEGNYH",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "ST",
+                        "navn": "Sør-Trøndelag"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "R",
+                        "navn": "Rødt",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Greni",
+                    "foedselsdato": "1962-07-03T00:00:00+02:00",
+                    "fornavn": "Heidi",
+                    "id": "HEIG",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "ST",
+                        "navn": "Sør-Trøndelag"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "Sp",
+                        "navn": "Senterpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Orten",
+                    "foedselsdato": "1966-10-25T02:00:00+02:00",
+                    "fornavn": "Helge",
+                    "id": "HELO",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "MR",
+                        "navn": "Møre og Romsdal"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "H",
+                        "navn": "Høyre",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Lunde",
+                    "foedselsdato": "1973-02-03T00:00:00+01:00",
+                    "fornavn": "Heidi Nordby",
+                    "id": "HENL",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Os",
+                        "navn": "Oslo"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "H",
+                        "navn": "Høyre",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Gulati",
+                    "foedselsdato": "1988-06-16T00:00:00+02:00",
+                    "fornavn": "Himanshu",
+                    "id": "HGU",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ak",
+                        "navn": "Akershus"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "FrP",
+                        "navn": "Fremskrittspartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Limi",
+                    "foedselsdato": "1960-09-26T00:00:00+02:00",
+                    "fornavn": "Hans Andreas",
+                    "id": "HLI",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ak",
+                        "navn": "Akershus"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "FrP",
+                        "navn": "Fremskrittspartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Njåstad",
+                    "foedselsdato": "1980-06-05T00:00:00+02:00",
+                    "fornavn": "Helge André",
+                    "id": "HNJ",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ho",
+                        "navn": "Hordaland"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "FrP",
+                        "navn": "Fremskrittspartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Tajik",
+                    "foedselsdato": "1983-07-18T00:00:00+02:00",
+                    "fornavn": "Hadia",
+                    "id": "HTA",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ro",
+                        "navn": "Rogaland"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Foss",
+                    "foedselsdato": "1960-02-07T00:00:00+01:00",
+                    "fornavn": "Ingunn",
+                    "id": "IAF",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "VA",
+                        "navn": "Vest-Agder"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "H",
+                        "navn": "Høyre",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Søreide",
+                    "foedselsdato": "1976-05-02T01:00:00+02:00",
+                    "fornavn": "Ine Eriksen",
+                    "id": "IME",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Os",
+                        "navn": "Oslo"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "H",
+                        "navn": "Høyre",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Fiskaa",
+                    "foedselsdato": "1977-04-16T01:00:00+02:00",
+                    "fornavn": "Ingrid",
+                    "id": "INF",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ro",
+                        "navn": "Rogaland"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "SV",
+                        "navn": "Sosialistisk Venstreparti",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Thorsvik",
+                    "foedselsdato": "1991-11-19T01:00:00+01:00",
+                    "fornavn": "Ingvild Wetrhus",
+                    "id": "INGTHO",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "VA",
+                        "navn": "Vest-Agder"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "V",
+                        "navn": "Venstre",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Kjerkol",
+                    "foedselsdato": "1975-05-18T01:00:00+02:00",
+                    "fornavn": "Ingvild",
+                    "id": "INK",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "NT",
+                        "navn": "Nord-Trøndelag"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Ojala",
+                    "foedselsdato": "1960-10-08T02:00:00+02:00",
+                    "fornavn": "Irene",
+                    "id": "IREOJA",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Fi",
+                        "navn": "Finnmark"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "PF",
+                        "navn": "Pasientfokus",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Schou",
+                    "foedselsdato": "1955-01-20T00:00:00+01:00",
+                    "fornavn": "Ingjerd",
+                    "id": "ISC",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Øs",
+                        "navn": "Østfold"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "H",
+                        "navn": "Høyre",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Asphjell",
+                    "foedselsdato": "1960-07-17T00:00:00+02:00",
+                    "fornavn": "Jorodd",
+                    "id": "JASP",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "ST",
+                        "navn": "Sør-Trøndelag"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Støre",
+                    "foedselsdato": "1960-08-25T00:00:00+02:00",
+                    "fornavn": "Jonas Gahr",
+                    "id": "JGS",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Os",
+                        "navn": "Oslo"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Klinge",
+                    "foedselsdato": "1975-11-28T00:00:00+01:00",
+                    "fornavn": "Jenny",
+                    "id": "JKL",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "MR",
+                        "navn": "Møre og Romsdal"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "Sp",
+                        "navn": "Senterpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Nygård",
+                    "foedselsdato": "1973-01-02T01:00:00+01:00",
+                    "fornavn": "Jon-Ivar",
+                    "id": "JONN",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Øs",
+                        "navn": "Østfold"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Sanner",
+                    "foedselsdato": "1965-05-06T00:00:00+02:00",
+                    "fornavn": "Jan Tore",
+                    "id": "JTS",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ak",
+                        "navn": "Akershus"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "H",
+                        "navn": "Høyre",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Gunaratnam",
+                    "foedselsdato": "1988-03-27T01:00:00+01:00",
+                    "fornavn": "Kamzy",
+                    "id": "KAMGUN",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Os",
+                        "navn": "Oslo"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Henriksen",
+                    "foedselsdato": "1955-08-10T01:00:00+02:00",
+                    "fornavn": "Kari",
+                    "id": "KARH",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "VA",
+                        "navn": "Vest-Agder"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Jønnes",
+                    "foedselsdato": "1972-04-13T02:00:00+02:00",
+                    "fornavn": "Kari-Anne",
+                    "id": "KARJ",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Op",
+                        "navn": "Oppland"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "H",
+                        "navn": "Høyre",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Kleveland",
+                    "foedselsdato": "1966-04-07T02:00:00+02:00",
+                    "fornavn": "Kathrine",
+                    "id": "KATKLE",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ve",
+                        "navn": "Vestfold"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "Sp",
+                        "navn": "Senterpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Lie",
+                    "foedselsdato": "1964-03-14T01:00:00+01:00",
+                    "fornavn": "Kathy",
+                    "id": "KATLIE",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Bu",
+                        "navn": "Buskerud"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "SV",
+                        "navn": "Sosialistisk Venstreparti",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Kaski",
+                    "foedselsdato": "1987-07-12T00:00:00+02:00",
+                    "fornavn": "Kari Elisabeth",
+                    "id": "KEKA",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Os",
+                        "navn": "Oslo"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "SV",
+                        "navn": "Sosialistisk Venstreparti",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Bergstø",
+                    "foedselsdato": "1981-07-01T00:00:00+02:00",
+                    "fornavn": "Kirsti",
+                    "id": "KIB",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ak",
+                        "navn": "Akershus"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "SV",
+                        "navn": "Sosialistisk Venstreparti",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Leirtrø",
+                    "foedselsdato": "1963-08-27T00:00:00+02:00",
+                    "fornavn": "Kirsti",
+                    "id": "KILE",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "ST",
+                        "navn": "Sør-Trøndelag"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Funderud",
+                    "foedselsdato": "1970-11-13T01:00:00+01:00",
+                    "fornavn": "Kjerstin Wøyen",
+                    "id": "KJEFUN",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Øs",
+                        "navn": "Østfold"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "Sp",
+                        "navn": "Senterpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Ropstad",
+                    "foedselsdato": "1985-06-01T00:00:00+02:00",
+                    "fornavn": "Kjell Ingolf",
+                    "id": "KJR",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "VA",
+                        "navn": "Vest-Agder"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "KrF",
+                        "navn": "Kristelig Folkeparti",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Toppe",
+                    "foedselsdato": "1967-10-20T01:00:00+02:00",
+                    "fornavn": "Kjersti",
+                    "id": "KJT",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ho",
+                        "navn": "Hordaland"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "Sp",
+                        "navn": "Senterpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Haltbrekken",
+                    "foedselsdato": "1971-03-09T00:00:00+01:00",
+                    "fornavn": "Lars",
+                    "id": "LAHA",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "ST",
+                        "navn": "Sør-Trøndelag"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "SV",
+                        "navn": "Sosialistisk Venstreparti",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Berg",
+                    "foedselsdato": "1987-03-04T01:00:00+01:00",
+                    "fornavn": "Lan Marie Nguyen",
+                    "id": "LANBER",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Os",
+                        "navn": "Oslo"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "MDG",
+                        "navn": "Miljøpartiet De Grønne",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Helleland",
+                    "foedselsdato": "1977-08-26T01:00:00+02:00",
+                    "fornavn": "Linda Hofstad",
+                    "id": "LCH",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "ST",
+                        "navn": "Sør-Trøndelag"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "H",
+                        "navn": "Høyre",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Westgaard-Halle",
+                    "foedselsdato": "1979-07-04T01:00:00+02:00",
+                    "fornavn": "Lene",
+                    "id": "LCWH",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ve",
+                        "navn": "Vestfold"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "H",
+                        "navn": "Høyre",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Christoffersen",
+                    "foedselsdato": "1955-08-05T01:00:00+02:00",
+                    "fornavn": "Lise",
+                    "id": "LIC",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Bu",
+                        "navn": "Buskerud"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Eskeland",
+                    "foedselsdato": "1965-05-21T00:00:00+02:00",
+                    "fornavn": "Liv Kari",
+                    "id": "LIE",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ho",
+                        "navn": "Hordaland"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "H",
+                        "navn": "Høyre",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Merkesdal",
+                    "foedselsdato": "1973-04-12T01:00:00+02:00",
+                    "fornavn": "Linda Monsen",
+                    "id": "LIM",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ho",
+                        "navn": "Hordaland"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Klungland",
+                    "foedselsdato": "1994-01-07T01:00:00+01:00",
+                    "fornavn": "Lisa Marie Ness",
+                    "id": "LISKLU",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ro",
+                        "navn": "Rogaland"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "Sp",
+                        "navn": "Senterpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Selnes",
+                    "foedselsdato": "1976-11-11T00:00:00+01:00",
+                    "fornavn": "Lise",
+                    "id": "LISSEL",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "He",
+                        "navn": "Hedmark"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Vågslid",
+                    "foedselsdato": "1986-03-17T00:00:00+01:00",
+                    "fornavn": "Lene",
+                    "id": "LVA",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Te",
+                        "navn": "Telemark"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Arnstad",
+                    "foedselsdato": "1962-05-04T00:00:00+02:00",
+                    "fornavn": "Marit",
+                    "id": "MAA",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "NT",
+                        "navn": "Nord-Trøndelag"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "Sp",
+                        "navn": "Senterpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Hussein",
+                    "foedselsdato": "1986-07-24T00:00:00+02:00",
+                    "fornavn": "Marian",
+                    "id": "MAAH",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Os",
+                        "navn": "Oslo"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "SV",
+                        "navn": "Sosialistisk Venstreparti",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Hagerup",
+                    "foedselsdato": "1980-06-08T00:00:00+02:00",
+                    "fornavn": "Margret",
+                    "id": "MAHAG",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ro",
+                        "navn": "Rogaland"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "H",
+                        "navn": "Høyre",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Farahmand",
+                    "foedselsdato": "1979-09-15T01:00:00+02:00",
+                    "fornavn": "Mahmoud",
+                    "id": "MAHF",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Te",
+                        "navn": "Telemark"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "H",
+                        "navn": "Høyre",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Martinussen",
+                    "foedselsdato": "1985-12-30T01:00:00+01:00",
+                    "fornavn": "Marie Sneve",
+                    "id": "MARMAR",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ak",
+                        "navn": "Akershus"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "R",
+                        "navn": "Rødt",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Nilsen",
+                    "foedselsdato": "1984-08-14T02:00:00+02:00",
+                    "fornavn": "Marius Arion",
+                    "id": "MARNIL",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "AA",
+                        "navn": "Aust-Agder"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "FrP",
+                        "navn": "Fremskrittspartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Persen",
+                    "foedselsdato": "1975-04-24T02:00:00+02:00",
+                    "fornavn": "Marte Mjøs",
+                    "id": "MARPER",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ho",
+                        "navn": "Hordaland"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Gharahkhani",
+                    "foedselsdato": "1982-09-22T00:00:00+02:00",
+                    "fornavn": "Masud",
+                    "id": "MASG",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Bu",
+                        "navn": "Buskerud"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Lønseth",
+                    "foedselsdato": "1991-08-29T00:00:00+02:00",
+                    "fornavn": "Mari Holm",
+                    "id": "MHL",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "ST",
+                        "navn": "Sør-Trøndelag"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "H",
+                        "navn": "Høyre",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Hussaini",
+                    "foedselsdato": "1987-10-25T02:00:00+02:00",
+                    "fornavn": "Mani",
+                    "id": "MHU",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ak",
+                        "navn": "Akershus"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Strand",
+                    "foedselsdato": "1992-04-27T00:00:00+02:00",
+                    "fornavn": "Marit Knutsdatter",
+                    "id": "MKS",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Op",
+                        "navn": "Oppland"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "Sp",
+                        "navn": "Senterpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Fagerås",
+                    "foedselsdato": "1972-01-09T00:00:00+01:00",
+                    "fornavn": "Mona",
+                    "id": "MLF",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "No",
+                        "navn": "Nordland"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "SV",
+                        "navn": "Sosialistisk Venstreparti",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Kristjánsson",
+                    "foedselsdato": "1986-08-17T02:00:00+02:00",
+                    "fornavn": "Mímir",
+                    "id": "MMIKRI",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ro",
+                        "navn": "Rogaland"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "R",
+                        "navn": "Rødt",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Nilsen",
+                    "foedselsdato": "1973-09-17T01:00:00+02:00",
+                    "fornavn": "Mona",
+                    "id": "MONNIL",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "No",
+                        "navn": "Nordland"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Wold",
+                    "foedselsdato": "1967-06-22T01:00:00+02:00",
+                    "fornavn": "Morten",
+                    "id": "MOW",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Bu",
+                        "navn": "Buskerud"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "FrP",
+                        "navn": "Fremskrittspartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Tybring-Gjedde",
+                    "foedselsdato": "1992-12-15T00:00:00+01:00",
+                    "fornavn": "Mathilde",
+                    "id": "MTY",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Os",
+                        "navn": "Oslo"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "H",
+                        "navn": "Høyre",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Kapur",
+                    "foedselsdato": "1976-12-14T00:00:00+01:00",
+                    "fornavn": "Mudassar",
+                    "id": "MUK",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Os",
+                        "navn": "Oslo"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "H",
+                        "navn": "Høyre",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Astrup",
+                    "foedselsdato": "1978-06-12T02:00:00+02:00",
+                    "fornavn": "Nikolai",
+                    "id": "NA",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Os",
+                        "navn": "Oslo"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "H",
+                        "navn": "Høyre",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Foshaug",
+                    "foedselsdato": "1970-11-22T00:00:00+01:00",
+                    "fornavn": "Nils-Ole",
+                    "id": "NF",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Tr",
+                        "navn": "Troms"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Bjørke",
+                    "foedselsdato": "1959-03-09T00:00:00+01:00",
+                    "fornavn": "Nils T.",
+                    "id": "NITB",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ho",
+                        "navn": "Hordaland"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "Sp",
+                        "navn": "Senterpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Sandtrøen",
+                    "foedselsdato": "1989-02-02T00:00:00+01:00",
+                    "fornavn": "Nils Kristen",
+                    "id": "NKS",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "He",
+                        "navn": "Hedmark"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Næss",
+                    "foedselsdato": "1974-03-28T00:00:00+01:00",
+                    "fornavn": "Marianne Sivertsen",
+                    "id": "NSSMAR",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Fi",
+                        "navn": "Finnmark"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Myhrvold",
+                    "foedselsdato": "1978-06-10T01:00:00+02:00",
+                    "fornavn": "Ole André",
+                    "id": "OAM",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Øs",
+                        "navn": "Østfold"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "Sp",
+                        "navn": "Senterpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Moe",
+                    "foedselsdato": "1976-06-06T02:00:00+02:00",
+                    "fornavn": "Ola Borten",
+                    "id": "OBM",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "ST",
+                        "navn": "Sør-Trøndelag"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "Sp",
+                        "navn": "Senterpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Trellevik",
+                    "foedselsdato": "1965-08-15T00:00:00+02:00",
+                    "fornavn": "Ove",
+                    "id": "OBT",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ho",
+                        "navn": "Hordaland"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "H",
+                        "navn": "Høyre",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Hovland",
+                    "foedselsdato": "1962-09-29T02:00:00+02:00",
+                    "fornavn": "Odd Harald",
+                    "id": "ODDHOV",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ho",
+                        "navn": "Hordaland"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Elvestuen",
+                    "foedselsdato": "1967-10-09T01:00:00+02:00",
+                    "fornavn": "Ola",
+                    "id": "OLE",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Os",
+                        "navn": "Oslo"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "V",
+                        "navn": "Venstre",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Grotle",
+                    "foedselsdato": "1964-02-17T01:00:00+01:00",
+                    "fornavn": "Olve",
+                    "id": "OLVGRO",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "SF",
+                        "navn": "Sogn og Fjordane"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "H",
+                        "navn": "Høyre",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Bollestad",
+                    "foedselsdato": "1961-11-04T00:00:00+01:00",
+                    "fornavn": "Olaug Vervik",
+                    "id": "OVB",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ro",
+                        "navn": "Rogaland"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "KrF",
+                        "navn": "Kristelig Folkeparti",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Frølich",
+                    "foedselsdato": "1987-09-17T00:00:00+02:00",
+                    "fornavn": "Peter",
+                    "id": "PCF",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ho",
+                        "navn": "Hordaland"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "H",
+                        "navn": "Høyre",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Kjølmoen",
+                    "foedselsdato": "1973-05-03T02:00:00+02:00",
+                    "fornavn": "Per Vidar",
+                    "id": "PERKJL",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "MR",
+                        "navn": "Møre og Romsdal"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Tyldum",
+                    "foedselsdato": "1964-04-24T02:00:00+02:00",
+                    "fornavn": "Per Olav",
+                    "id": "PERTYL",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "NT",
+                        "navn": "Nord-Trøndelag"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "Sp",
+                        "navn": "Senterpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Lundteigen",
+                    "foedselsdato": "1953-04-18T01:00:00+02:00",
+                    "fornavn": "Per Olaf",
+                    "id": "POL",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Bu",
+                        "navn": "Buskerud"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "Sp",
+                        "navn": "Senterpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Amundsen",
+                    "foedselsdato": "1971-01-21T00:00:00+01:00",
+                    "fornavn": "Per-Willy",
+                    "id": "PTA",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Tr",
+                        "navn": "Troms"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "FrP",
+                        "navn": "Fremskrittspartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Hansson",
+                    "foedselsdato": "1954-09-04T01:00:00+02:00",
+                    "fornavn": "Rasmus",
+                    "id": "RAJH",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Os",
+                        "navn": "Oslo"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "MDG",
+                        "navn": "Miljøpartiet De Grønne",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Aasrud",
+                    "foedselsdato": "1960-06-26T00:00:00+02:00",
+                    "fornavn": "Rigmor",
+                    "id": "RIAJ",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Op",
+                        "navn": "Oppland"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Steffensen",
+                    "foedselsdato": "1980-09-10T00:00:00+02:00",
+                    "fornavn": "Roy",
+                    "id": "ROYS",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ro",
+                        "navn": "Rogaland"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "FrP",
+                        "navn": "Fremskrittspartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Sjåstad",
+                    "foedselsdato": "1968-08-28T01:00:00+02:00",
+                    "fornavn": "Runar",
+                    "id": "RSJ",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Fi",
+                        "navn": "Finnmark"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Støstad",
+                    "foedselsdato": "1972-01-08T01:00:00+01:00",
+                    "fornavn": "Rune",
+                    "id": "RUNSTS",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Op",
+                        "navn": "Oppland"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Bruflot",
+                    "foedselsdato": "1991-12-31T01:00:00+01:00",
+                    "fornavn": "Sandra",
+                    "id": "SAB",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Bu",
+                        "navn": "Buskerud"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "H",
+                        "navn": "Høyre",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Aydar",
+                    "foedselsdato": "1989-09-10T00:00:00+02:00",
+                    "fornavn": "Seher",
+                    "id": "SEA",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Os",
+                        "navn": "Oslo"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "R",
+                        "navn": "Rødt",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Bakke",
+                    "foedselsdato": "1996-05-30T02:00:00+02:00",
+                    "fornavn": "Åse Kristin Ask",
+                    "id": "SEKBAK",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "MR",
+                        "navn": "Møre og Romsdal"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Lauvås",
+                    "foedselsdato": "1965-05-03T00:00:00+02:00",
+                    "fornavn": "Stein Erik",
+                    "id": "SEL",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Øs",
+                        "navn": "Østfold"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Harberg",
+                    "foedselsdato": "1958-07-30T01:00:00+02:00",
+                    "fornavn": "Svein",
+                    "id": "SHAR",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "AA",
+                        "navn": "Aust-Agder"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "H",
+                        "navn": "Høyre",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Bjørnstad",
+                    "foedselsdato": "1990-10-03T01:00:00+02:00",
+                    "fornavn": "Sivert",
+                    "id": "SHB",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "ST",
+                        "navn": "Sør-Trøndelag"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "FrP",
+                        "navn": "Fremskrittspartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Gjelsvik",
+                    "foedselsdato": "1974-03-30T00:00:00+01:00",
+                    "fornavn": "Sigbjørn",
+                    "id": "SIGJE",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ak",
+                        "navn": "Akershus"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "Sp",
+                        "navn": "Senterpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Hjemdal",
+                    "foedselsdato": "1984-08-08T00:00:00+02:00",
+                    "fornavn": "Silje",
+                    "id": "SIHJE",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ho",
+                        "navn": "Hordaland"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "FrP",
+                        "navn": "Fremskrittspartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Mossleth",
+                    "foedselsdato": "1967-04-04T01:00:00+02:00",
+                    "fornavn": "Siv",
+                    "id": "SIMOS",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "No",
+                        "navn": "Nordland"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "Sp",
+                        "navn": "Senterpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Myrli",
+                    "foedselsdato": "1971-08-26T01:00:00+02:00",
+                    "fornavn": "Sverre",
+                    "id": "SMY",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ak",
+                        "navn": "Akershus"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Borch",
+                    "foedselsdato": "1988-04-23T00:00:00+02:00",
+                    "fornavn": "Sandra",
+                    "id": "SNB",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Tr",
+                        "navn": "Troms"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "Sp",
+                        "navn": "Senterpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Marhaug",
+                    "foedselsdato": "1990-05-24T02:00:00+02:00",
+                    "fornavn": "Sofie",
+                    "id": "SOFMAR",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ho",
+                        "navn": "Hordaland"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "R",
+                        "navn": "Rødt",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Stensland",
+                    "foedselsdato": "1972-11-06T00:00:00+01:00",
+                    "fornavn": "Sveinung",
+                    "id": "SVES",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ro",
+                        "navn": "Rogaland"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "H",
+                        "navn": "Høyre",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Rotevatn",
+                    "foedselsdato": "1987-05-15T00:00:00+02:00",
+                    "fornavn": "Sveinung",
+                    "id": "SVR",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ho",
+                        "navn": "Hordaland"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "V",
+                        "navn": "Venstre",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Listhaug",
+                    "foedselsdato": "1977-12-25T00:00:00+01:00",
+                    "fornavn": "Sylvi",
+                    "id": "SYL",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "MR",
+                        "navn": "Møre og Romsdal"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "FrP",
+                        "navn": "Fremskrittspartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Pettersen",
+                    "foedselsdato": "1972-07-25T01:00:00+02:00",
+                    "fornavn": "Tage",
+                    "id": "TAGP",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Øs",
+                        "navn": "Østfold"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "H",
+                        "navn": "Høyre",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Johnsen",
+                    "foedselsdato": "1968-11-25T00:00:00+01:00",
+                    "fornavn": "Tor André",
+                    "id": "TAJ",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "He",
+                        "navn": "Hedmark"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "FrP",
+                        "navn": "Fremskrittspartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Aasland",
+                    "foedselsdato": "1965-02-15T00:00:00+01:00",
+                    "fornavn": "Terje",
+                    "id": "TELA",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Te",
+                        "navn": "Telemark"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Halleland",
+                    "foedselsdato": "1966-04-14T01:00:00+02:00",
+                    "fornavn": "Terje",
+                    "id": "TERH",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ro",
+                        "navn": "Rogaland"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "FrP",
+                        "navn": "Fremskrittspartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Sørvik",
+                    "foedselsdato": "1967-06-04T01:00:00+02:00",
+                    "fornavn": "Terje",
+                    "id": "TERS",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "NT",
+                        "navn": "Nord-Trøndelag"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Bru",
+                    "foedselsdato": "1986-04-18T02:00:00+02:00",
+                    "fornavn": "Tina",
+                    "id": "TIB",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ro",
+                        "navn": "Rogaland"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "H",
+                        "navn": "Høyre",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Mørland",
+                    "foedselsdato": "1980-04-21T00:00:00+02:00",
+                    "fornavn": "Tellef Inge",
+                    "id": "TIM",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "AA",
+                        "navn": "Aust-Agder"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Fylkesnes",
+                    "foedselsdato": "1975-06-04T01:00:00+02:00",
+                    "fornavn": "Torgeir Knag",
+                    "id": "TKF",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Tr",
+                        "navn": "Troms"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "SV",
+                        "navn": "Sosialistisk Venstreparti",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Vedum",
+                    "foedselsdato": "1978-12-01T00:00:00+01:00",
+                    "fornavn": "Trygve Slagsvold",
+                    "id": "TMV",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "He",
+                        "navn": "Hedmark"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "Sp",
+                        "navn": "Senterpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Lund",
+                    "foedselsdato": "1996-05-11T00:00:00+02:00",
+                    "fornavn": "Tobias Drevland",
+                    "id": "TOBLUN",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Te",
+                        "navn": "Telemark"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "R",
+                        "navn": "Rødt",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Madland",
+                    "foedselsdato": "1965-03-10T01:00:00+01:00",
+                    "fornavn": "Tove Elise",
+                    "id": "TOVMAD",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ro",
+                        "navn": "Rogaland"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Sundnes",
+                    "foedselsdato": "1970-02-06T01:00:00+01:00",
+                    "fornavn": "Trine Lise",
+                    "id": "TRISUN",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Os",
+                        "navn": "Oslo"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Helleland",
+                    "foedselsdato": "1962-07-10T00:00:00+02:00",
+                    "fornavn": "Trond",
+                    "id": "TROH",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Bu",
+                        "navn": "Buskerud"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "H",
+                        "navn": "Høyre",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Vasvik",
+                    "foedselsdato": "1978-06-28T01:00:00+02:00",
+                    "fornavn": "Truls",
+                    "id": "TRV",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ve",
+                        "navn": "Vestfold"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Solberg",
+                    "foedselsdato": "1985-03-02T00:00:00+01:00",
+                    "fornavn": "Torstein Tvedt",
+                    "id": "TTS",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ro",
+                        "navn": "Rogaland"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Kristensen",
+                    "foedselsdato": "1966-10-08T01:00:00+02:00",
+                    "fornavn": "Turid",
+                    "id": "TUK",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ak",
+                        "navn": "Akershus"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "H",
+                        "navn": "Høyre",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Moflag",
+                    "foedselsdato": "1979-03-17T00:00:00+01:00",
+                    "fornavn": "Tuva",
+                    "id": "TUMO",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ak",
+                        "navn": "Akershus"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Vereide",
+                    "foedselsdato": "1989-02-19T00:00:00+01:00",
+                    "fornavn": "Torbjørn",
+                    "id": "TVER",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "SF",
+                        "navn": "Sogn og Fjordane"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Trøen",
+                    "foedselsdato": "1966-02-23T00:00:00+01:00",
+                    "fornavn": "Tone Wilhelmsen",
+                    "id": "TWT",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ak",
+                        "navn": "Akershus"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "H",
+                        "navn": "Høyre",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Bastholm",
+                    "foedselsdato": "1986-01-14T00:00:00+01:00",
+                    "fornavn": "Une",
+                    "id": "UAB",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Ak",
+                        "navn": "Akershus"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "MDG",
+                        "navn": "Miljøpartiet De Grønne",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Nordlund",
+                    "foedselsdato": "1988-04-18T02:00:00+02:00",
+                    "fornavn": "Willfred",
+                    "id": "WN",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "No",
+                        "navn": "Nordland"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "Sp",
+                        "navn": "Senterpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Mathisen",
+                    "foedselsdato": "1991-03-17T01:00:00+01:00",
+                    "fornavn": "Øystein",
+                    "id": "YSTMAT",
+                    "kjoenn": "mann",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "No",
+                        "navn": "Nordland"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                },
+                {
+                    "respons_dato_tid": "2022-04-27T08:37:44.0332746+02:00",
+                    "versjon": "1.6",
+                    "doedsdato": {
+                        "@i:nil": "true"
+                    },
+                    "etternavn": "Sem-Jacobsen",
+                    "foedselsdato": "1971-04-05T01:00:00+02:00",
+                    "fornavn": "Åslaug",
+                    "id": "ÅSJ",
+                    "kjoenn": "kvinne",
+                    "fylke": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.3185429+02:00",
+                        "versjon": "1.6",
+                        "historisk_fylke": "false",
+                        "id": "Te",
+                        "navn": "Telemark"
+                    },
+                    "parti": {
+                        "respons_dato_tid": "2022-04-27T07:05:23.2560438+02:00",
+                        "versjon": "1.6",
+                        "id": "Sp",
+                        "navn": "Senterpartiet",
+                        "representert_parti": "true"
+                    },
+                    "vara_representant": "false"
+                }
+            ]
+        },
+        "stortingsperiode_id": "2021-2025"
+    }
+}
