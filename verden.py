@@ -28,5 +28,10 @@ class Verden:
             if etternavn == ["etternavn"]:
                 self.lag.append(Politiker(["fornavn"], ["etternavn"], ["parti"]))
 
+    def fjern_politiker(self):
+        for etternavn in politikere:
+            if etternavn == ["etternavn"]:
+                self.lag.pop(Politiker(["fornavn"], ["etternavn"], ["parti"]))
+
     def legg_til_lag(self):
         pass
