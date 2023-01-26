@@ -1,3 +1,4 @@
+from verden import Verden
 class Lag:
     def __init__(self, lagnavn):
         self._lagnavn = lagnavn
@@ -7,12 +8,14 @@ class Lag:
     def hent_lag(self):
         return self._lag
 
-    def kjop_politiker(self, politiker):
-        self._politiker = politiker 
-        self._lag.append(politiker)
+    def kjop_politiker(self):
+        Verden.legg_til_politiker() 
         self._saldo -= 1000
+
+        return Verden(self.lag)
     
-    def selg_politiker(self, politiker):
-        self._politiker = politiker
-        self._lag.pop(politiker)
+    def selg_politiker(self):
+        Verden.legg_til_politiker() 
         self._saldo += 1000
+
+        return Verden(self.lag)

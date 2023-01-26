@@ -9,4 +9,4 @@ for politiker in politikerliste:
     min_verden.append(ny_politiker)
 
 mitt_lag = Lag("Nasjonal Blanding")
-mitt_lag.kjop(finn_politiker("Jonas Gahr Støre"))
+mitt_lag.kjop_politiker(finn_politiker("Jonas Gahr Støre"))
