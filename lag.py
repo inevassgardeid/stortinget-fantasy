@@ -14,5 +14,7 @@ class Lag:
         self._lag.append(politiker)
         self._saldo -= 1000
     
-    def selg_politiker(self):
+    def selg_politiker(self, politiker):
         self._politiker = politiker
+        self._lag.pop(politiker)
+        self._saldo += 1000
