@@ -1,4 +1,3 @@
-from politiker import Politiker
 import json
 
 

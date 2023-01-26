@@ -1,5 +1,3 @@
-from politiker import Politiker
-
 class Lag:
     def __init__(self, lagnavn):
         self._lagnavn = lagnavn
