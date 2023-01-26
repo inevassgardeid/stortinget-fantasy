@@ -9,3 +9,7 @@ politikere = []
 
 for politiker in data["representanter_oversikt"]["representanter_liste"]["representant"]:
     ny = Politiker(politiker["fornavn"], politiker["etternavn"], politiker["parti"]["navn"])
+
+    politikere.append(ny)
+
+print(politikere)
