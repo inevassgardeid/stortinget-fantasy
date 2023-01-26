@@ -19,4 +19,5 @@ for politiker in data["representanter_oversikt"]["representanter_liste"]["repres
 
 thorsLag = Lag("Thors lag")
 thorsLag.kjop_politiker(politikere[0])
+thorsLag.hent_lag()
 print("ferdig")

@@ -16,4 +16,3 @@ class Lag:
     
     def selg_politiker(self):
         self._politiker = politiker
-        
